@@ -1,5 +1,5 @@
- Introduction
-=======================
+CodeBook for Getting and Cleaning Data
+======================================
 
 Project CodeBook From Week3's Project
 ---------------------------------------
